@@ -1,0 +1,7 @@
+gc()
+rm(list = ls(all.names = True))
+getwd()
+setwd("C:/Users/santosh.kunwar01/Documents/R/EUR/Econ4150")
+getwd()
+
+
